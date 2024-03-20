@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). start with the git init 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). start with the npm  start 
+
+![image](https://github.com/AmitIITGoa/My-todos-List-project/assets/136780313/3e2185d1-e7ea-4bef-afb3-852f3b254b0e)
+
 
 ## Available Scripts
 
